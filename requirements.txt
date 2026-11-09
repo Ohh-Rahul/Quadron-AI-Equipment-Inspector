@@ -1,0 +1,8 @@
+
+streamlit==1.67.0
+Pillow==13.0.0
+pydantic==2.14.3
+python-dotenv==1.2.4
+azure-identity==1.27.0
+azure-identity-broker
+azure-ai-projects==2.10.0

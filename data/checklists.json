@@ -1,0 +1,61 @@
+{
+  "IT equipment": {
+    "equipment_options": [
+      "Desktop computer",
+      "Laptop",
+      "Projector",
+      "Server",
+      "Monitor",
+      "Printer",
+      "Router",
+      "Network switch",
+      "UPS"
+    ],
+    "inspection_items": [
+      "Check the enclosure, chassis, and external surfaces for visible cracks, dents, corrosion, or deformation.",
+      "Check power cables, data cables, ports, connectors, switches, and controls for visible damage.",
+      "Check screens, displays, lenses, indicators, and other visible output surfaces for damage.",
+      "Check cooling fans, vents, filters, and openings for obstruction or obvious damage.",
+      "Check for loose components, exposed wiring, damaged power connections, overheating signs, or other visible hazards."
+    ]
+  },
+  "Lab instruments": {
+    "equipment_options": [
+      "Microscope",
+      "Oscilloscope",
+      "Digital multimeter",
+      "Function generator",
+      "Power supply",
+      "Analytical balance",
+      "pH meter",
+      "Spectrophotometer",
+      "Magnetic stirrer",
+      "Centrifuge",
+      "Lathe machine",
+      "Milling machine",
+      "Drilling machine",
+      "3D printer",
+      "CNC machine",
+      "Vernier caliper",
+      "Micrometer",
+      "Compression testing machine",
+      "Concrete mixer",
+      "Theodolite",
+      "Total station",
+      "Hydraulic testing equipment",
+      "Laser apparatus",
+      "Optical bench",
+      "Transformer",
+      "Electric motor",
+      "Circuit testing equipment",
+      "Biomedical diagnostic equipment"
+    ],
+    "inspection_items": [
+      "Check the instrument body, frame, base, enclosure, mounting points, and external surfaces for visible cracks, dents, corrosion, or deformation.",
+      "Check power cables, probes, sensors, hoses, connectors, terminals, switches, and controls for visible damage or disconnection.",
+      "Check displays, screens, lenses, mirrors, optical components, measurement scales, and other visible measurement surfaces for damage.",
+      "Check knobs, buttons, stages, moving parts, handles, rails, guards, fixtures, and adjustment mechanisms for visible damage, misalignment, or loose components.",
+      "Check for exposed wiring, fluid leakage, damaged insulation, missing safety guards, loose parts, overheating signs, or other visible safety hazards."
+    ]
+  }
+}

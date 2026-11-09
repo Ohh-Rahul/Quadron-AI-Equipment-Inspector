@@ -1,0 +1,21 @@
+[theme]
+base = "dark"
+primaryColor = "#d1d5db"
+backgroundColor = "#111214"
+secondaryBackgroundColor = "#1b1d21"
+textColor = "#e5e7eb"
+font = "Aptos"
+headingFont = "Aptos Display"
+baseRadius = "0.65rem"
+showWidgetBorder = true
+showSidebarBorder = true
+paddingTop = "2rem"
+paddingBottom = "2.5rem"
+
+[theme.sidebar]
+backgroundColor = "#0b0c0e"
+secondaryBackgroundColor = "#17191c"
+textColor = "#d1d5db"
+
+[server]
+maxUploadSize = 2
